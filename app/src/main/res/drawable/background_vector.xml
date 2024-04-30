@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <gradient
+        android:startColor="#FF4081"
+        android:endColor="#3F51B5"
+        android:type="sweep"/>
+
+    <group
+        android:pivotX="100"
+        android:pivotY="100"
+        android:rotation="45">
+        <path
+            android:pathData="M0,0 L200,0 200,200 0,200z"/>
+    </group>
+</vector>

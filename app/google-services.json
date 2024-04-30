@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86299072494",
+    "project_id": "pocmytime",
+    "storage_bucket": "pocmytime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86299072494:android:2c7acc4b0a970ca251e0ff",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK8GZclXfdYTI_f0AaoKEtk-KC4QV3RGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
